@@ -30,7 +30,7 @@
     "logo": "https://scontent.ford1-1.fna.fbcdn.net/v/t31.0-8/13227797_2930854828151_3836105531451032844_o.jpg?oh=f15a65fdc134032a9b13f72e146b4fbd&oe=5964AED3",
     "cover": "https://scontent.ford1-1.fna.fbcdn.net/v/t31.0-8/12027165_2736119079879_9123254423269168019_o.jpg?oh=38947567f3a81d83645cd1ec14080887&oe=595379C1",
     "delay": "",
-    "postsPerPage": "",
+    "postsPerPage": "10",
     "googleAnalytics": "",
     "disqus": ""
   },
