@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://jbutzprojects.github.io",
     "hubpress": "https://jbutzprojects.github.io",
-    "theme": "//jbutzprojects.github.io/themes/uno-zen",
+    "theme": "//jbutzprojects.github.io/themes/uno",
     "images": "https://jbutzprojects.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -27,7 +27,7 @@
   "site": {
     "title": "Hello World Test",
     "description": "",
-    "logo": "",
+    "logo": "https://scontent.ford1-1.fna.fbcdn.net/v/t31.0-8/13227797_2930854828151_3836105531451032844_o.jpg?oh=f15a65fdc134032a9b13f72e146b4fbd&oe=5964AED3",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
