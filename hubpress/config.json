@@ -36,14 +36,14 @@
   },
   "socialnetwork": {
     "email": "fake@example.com",
-    "github": "jbutz",
-    "twitter": "jason_butz",
+    "github": "https://github.com/jbutz",
+    "twitter": "https://twitter.com/jason_butz",
     "facebook": "",
     "googleplus": "",
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "linkedin": "jasonbutz",
+    "linkedin": "https://www.linkedin.com/in/jasonbutz/",
     "stackoverflow": ""
   }
 }
