@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://jbutzprojects.github.io",
     "hubpress": "https://jbutzprojects.github.io",
-    "theme": "//jbutzprojects.github.io/themes/casper",
+    "theme": "//jbutzprojects.github.io/themes/ghostium",
     "images": "https://jbutzprojects.github.io/images"
   },
   "initialisationConfigComponent": {
