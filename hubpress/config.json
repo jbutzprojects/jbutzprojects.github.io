@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://jbutzprojects.github.io",
     "hubpress": "https://jbutzprojects.github.io",
-    "theme": "//jbutzprojects.github.io/themes/ghostium",
+    "theme": "//jbutzprojects.github.io/themes/ichi",
     "images": "https://jbutzprojects.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -36,8 +36,8 @@
   },
   "socialnetwork": {
     "email": "",
-    "github": "",
-    "twitter": "",
+    "github": "jbutz",
+    "twitter": "jason_butz",
     "facebook": "",
     "googleplus": "",
     "instagram": "",
