@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   },
   "urls": {
     "site": "https://jbutzprojects.github.io",
     "hubpress": "https://jbutzprojects.github.io",
-    "theme": "//jbutzprojects.github.io/themes/ichi",
+    "theme": "//jbutzprojects.github.io/themes/uno-zen",
     "images": "https://jbutzprojects.github.io/images"
   },
   "initialisationConfigComponent": {
