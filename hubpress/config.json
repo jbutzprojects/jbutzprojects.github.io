@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "ichi"
   },
   "urls": {
     "site": "https://jbutzprojects.github.io",
     "hubpress": "https://jbutzprojects.github.io",
-    "theme": "//jbutzprojects.github.io/themes/uno-zen",
+    "theme": "//jbutzprojects.github.io/themes/ghostium",
     "images": "https://jbutzprojects.github.io/images"
   },
   "initialisationConfigComponent": {
