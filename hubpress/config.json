@@ -35,7 +35,7 @@
     "disqus": ""
   },
   "socialnetwork": {
-    "email": "",
+    "email": "fake@example.com",
     "github": "jbutz",
     "twitter": "jason_butz",
     "facebook": "",
@@ -43,7 +43,7 @@
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "linkedin": "",
+    "linkedin": "jasonbutz",
     "stackoverflow": ""
   }
 }
